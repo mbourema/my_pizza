@@ -35,5 +35,8 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+    },
+    'my pizza': {
+        'ingredients' : {'gorgonzola': 6, 'mozzarella': 5, 'cheddar': 6}, 'price': 9,
     }
 }
